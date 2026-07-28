@@ -71,8 +71,6 @@ backend/app/          FastAPI API, models, phase/TDEE/USDA/Gemini services
 backend/tests/        Unit tests
 frontend/src/pages/   Screens (Home, Eat, Sleep, Period, Mood, …)
 frontend/src/api.ts   Backend client
-TECH_STACK.md         Plain-language stack map
-HOW_TO_USE.md         Run / reset / troubleshoot
 ```
 
 ## Privacy

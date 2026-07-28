@@ -23,3 +23,13 @@ Thumbs.db
 backend/.env
 *.db
 *.db-journal
+
+# Local agent / handoff notes (not for public repo)
+.cursor/
+CONTINUITY.md
+TECH_STACK.md
+HOW_TO_USE.md
+HOW_TO_TEST.md
+FOR_FUTURE_AGENTS.md
+HANDOFF_TO_HOBBY_AGENT.md
+AGENT_PLAN.md
